@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="contacts">Contacts</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="contactName">Full Name</string>
+    <string name="fullName">%1$s %2$s</string>
+
+
+    <string name="mainInfo">Main Information</string>
+    <string name="subInfo">Sub Information</string>
+
+    <string name="firstName">First Name</string>
+    <string name="LastName">Last Name</string>
+
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+</resources>
